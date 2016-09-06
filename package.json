@@ -40,6 +40,7 @@
   "dependencies": {
     "purecss": "^0.6.0",
     "react": "^15.3.1",
+    "react-ccss": "0.0.6",
     "react-dom": "^15.3.1"
   }
 }
